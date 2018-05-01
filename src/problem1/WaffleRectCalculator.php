@@ -2,6 +2,8 @@
 
 namespace tuentiChallenge\problem1;
 
+use tuentiChallenge\common\Problem;
+
 /**
 * 
 */

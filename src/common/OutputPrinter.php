@@ -1,6 +1,6 @@
 <?php
 
-namespace tuentiChallenge\problem1;
+namespace tuentiChallenge\common;
 
 /**
 * 
