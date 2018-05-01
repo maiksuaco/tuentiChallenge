@@ -1,0 +1,20 @@
+{
+    "name": "maiksuaco/problem1",
+    "authors": [
+        {
+            "name": "Maikel Suarez Corrales",
+            "email": "maiksuaco@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "tuentiChallenge\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "tuentiChallenge\\": "tests/"
+        }
+    },
+    "require": {}
+}
